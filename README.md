@@ -6,3 +6,5 @@ To run the app locally, users can clone the repository, set up a virtual environ
 Install the required dependencies:pip install -r requirements.txt
 
 
+MODEL USED IS dandelin/vilt-b32-finetuned-vqa
+
